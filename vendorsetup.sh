@@ -15,3 +15,6 @@
 #
 
 add_lunch_combo aosp_flounder-userdebug
+add_lunch_combo carbon_flounder-userdebug
+add_lunch_combo carbon_flounder-user
+add_lunch_combo aosp_flounder-user
